@@ -1,0 +1,11 @@
+
+
+not feel like to do CRUD
+
+////beforehand
+npm install
+docker compose up -d
+
+////run
+npm run start
+
